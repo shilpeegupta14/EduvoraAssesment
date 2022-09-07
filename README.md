@@ -7,3 +7,8 @@ About the project:
 # Screenshot:
 
 <img width="203" align="center" alt="Product screen" src="https://github.com/shilpeegupta14/images/blob/main/Simulator%20Screen%20Shot%20-%20iPhone%2013%20-%202022-09-07%20at%2020.55.09.png">
+
+<img width="203" align="left" alt="Product screen" src="https://github.com/shilpeegupta14/images/blob/main/Simulator%20Screen%20Shot%20-%20iPhone%2013%20-%202022-09-07%20at%2021.49.50.png">
+
+
+
