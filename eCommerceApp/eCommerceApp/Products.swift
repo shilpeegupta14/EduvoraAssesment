@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  MoodUI
 //
-//  Created by Kathan Lunagariya on 28/05/22.
+//  Created by Shilpee Gupta on 28/05/22.
 //
 
 import SwiftUI
